@@ -4,7 +4,7 @@
 Kernel.load(File.expand_path("../lib/executable-hooks/version.rb", __FILE__))
 
 Gem::Specification.new do |s|
-  s.name        = "executable-hooks"
+  s.name        = "toy-executable-hooks"
   s.version     = ExecutableHooks::VERSION
   s.license     = 'Apache 2.0'
   s.authors     = ["Michal Papis"]
